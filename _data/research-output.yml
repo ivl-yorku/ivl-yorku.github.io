@@ -1,0 +1,205 @@
+- title: 'WSL-DS: Weakly Supervised Learning with Distant Supervision for Query Focused
+    Multi-Document Abstractive Summarization'
+  authors:
+  - Md Tahmid Rahman Laskar
+  - Enamul Hoque
+  - Jimmy Xiangji Huang
+  publisher: arXiv:2011.01421 [cs]
+  date: '2020-11-02'
+  link: http://arxiv.org/abs/2011.01421
+  id: https://arxiv.org/abs/2011.01421
+  tags:
+  - Computation and Language (cs.CL);
+  - Information Retrieval (cs.IR)
+  extra-links:
+  - type: source
+    link: https://github.com/tahmedge/WSL-DS-COLING-2020
+- title: Designing and Evaluating Multimodal Interactions for Facilitating Visual
+    Analysis With Dashboards
+  authors:
+  - Imran Chowdhury
+  - Abdul Moeid
+  - Enamul Hoque
+  - Muhammad Ashad Kabir
+  - Md. Sabir Hossain
+  - Mohammad Mainul Islam
+  publisher: IEEE Access
+  date: '2021-01-01'
+  link: https://doi.org/gj7645
+  id: 10.1109/ACCESS.2020.3046623
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/6287639/9312710/9303381/hoque2-3046623-small.gif
+  tags:
+  - Data visualization
+  - Visualization
+  - Natural languages
+  - Task analysis
+  - Mice
+  - COVID-19
+  - Tools
+- title: Searching the Visual Style and Structure of D3 Visualizations
+  authors:
+  - Enamul Hoque
+  - Maneesh Agrawala
+  publisher: IEEE Transactions on Visualization and Computer Graphics
+  date: '2019-01-01'
+  link: https://doi.org/gh525d
+  id: 10.1109/TVCG.2019.2934431
+  image: https://www.yorku.ca/enamulh/vis-search/img/teaser_scatter_plot_contrast.png
+  tags:
+  - Visualization search engine
+  - Visualization design
+  - Vearch user interfaces
+- title: Interactive topic hierarchy revision for exploring a collection of online
+    conversations
+  authors:
+  - Enamul Hoque
+  - Giuseppe Carenini
+  publisher: Information Visualization
+  date: '2018-02-23'
+  link: https://doi.org/gj9dbx
+  id: 10.1177/1473871618757228
+  thumbnail: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ivia/2019/ivia_18_3/1473871618757228/20190607/images/medium/10.1177_1473871618757228-fig1.gif
+  tags:
+  - Visual text analytics
+  - Text visualization
+  - Interactive topic modeling
+  - Asynchronous conversations
+  - Computer-mediated communication
+- title: Applying Pragmatics Principles for Interaction with Visual Analytics
+  authors:
+  - Enamul Hoque
+  - Vidya Setlur
+  - Melanie Tory
+  - Isaac Dykeman
+  publisher: IEEE Transactions on Visualization and Computer Graphics
+  date: '2018-01-01'
+  link: https://doi.org/gcp7wd
+  id: 10.1109/TVCG.2017.2744684
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/2945/8165924/8019833/24tvcg01-setlur-2744684-fig-1-source-small.gif
+  tags:
+  - natural language
+  - interaction
+  - language pragmatics
+  - visual analytics
+  - ambiguity
+  - feedback
+- title: Interactive Topic Modeling for Exploring Asynchronous Online Conversations
+  authors:
+  - Enamul Hoque
+  - Giuseppe Carenini
+  publisher: ACM Transactions on Interactive Intelligent Systems
+  date: '2016-05-05'
+  link: https://doi.org/ggfbbw
+  id: 10.1145/2854158
+  extra-links:
+  - type: source
+    link: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F2854158&file=hoque.zip
+- title: ConVisIT
+  authors:
+  - Enamul Hoque
+  - Giuseppe Carenini
+  publisher: Association for Computing Machinery (ACM)
+  date: '2015-03-18'
+  link: https://doi.org/gj9dbz
+  id: 10.1145/2678025.2701370
+  image: https://www.cs.ubc.ca/cs-research/lci/research-groups/natural-language-processing/image/convis/3.jpg
+  extra-links:
+  - type: source
+    link: https://github.com/enamulubc/ConVis
+- title: 'Chart-to-Text: Generating Natural Language Descriptions for Charts by Adapting
+    the Transformer Model'
+  authors:
+  - Jason Obeid
+  - Enamul Hoque
+  publisher: arXiv
+  date: '2020-12-01'
+  link: https://arxiv.org/abs/2010.09142
+  id: arXiv:2010.09142
+  repo: https://github.com/JasonObeid/Chart2Text
+  extra-links:
+  - type: source
+    link: https://github.com/JasonObeid/Chart2Text
+  tags:
+  - Chart Summarization
+  - NLP
+- title: 'ClaimViz: Visual Analytics for Identifying and Verifying Factual Claims'
+  authors:
+  - Md Main Uddin Rony
+  - Enamul Hoque
+  - Naeemul Hassan
+  publisher: Institute of Electrical and Electronics Engineers (IEEE)
+  date: '2020-10-01'
+  link: https://doi.org/gj9db2
+  id: 10.1109/VIS47514.2020.00056
+  image: https://ieeexplore.ieee.org/mediastore_new/IEEE/content/media/9329359/9331017/9331280/uddin1-p5-uddin-small.gif
+  tags:
+  - Human-centered computing
+  - Visualization
+  - Visualization design and evaluation methods
+- title: Sneak Pique
+  authors:
+  - Vidya Setlur
+  - Enamul Hoque
+  - Dae Hyun Kim
+  - Angel X. Chang
+  publisher: Association for Computing Machinery (ACM)
+  date: '2020-10-20'
+  link: https://doi.org/gj9db3
+  id: 10.1145/3379337.3415813
+  image: https://dl.acm.org/cms/asset/d3dbbc65-153c-4f4f-a615-37f87e8e2d4b/3379337.3415813.key.jpg
+  tags:
+  - autocompletion
+  - data preview
+  - natural language interaction
+  - visual analysis.
+  extra-links:
+  - type: source
+    link: https://dl.acm.org/action/downloadSupplement?doi=10.1145%2F3379337.3415813&file=ufp1378aux.zip
+- title: Query Focused Abstractive Summarization via Incorporating Query Relevance
+    and Transfer Learning with Transformer Models
+  authors:
+  - Md Tahmid Rahman Laskar
+  - Enamul Hoque
+  - Jimmy Huang
+  publisher: Advances in Artificial Intelligence
+  date: '2020-01-01'
+  link: https://link.springer.com/chapter/10.1007/978-3-030-47358-7_35
+  id: https://link.springer.com/chapter/10.1007/978-3-030-47358-7_35
+  tags:
+  - Query
+  - Abtractive summarization
+  - Transformer
+  - BERT
+- title: Contextualized Embeddings based Transformer Encoder for Sentence Similarity
+    Modeling in Answer Selection Task
+  authors:
+  - Md Tahmid Rahman Laskar
+  - Jimmy Xiangji Huang
+  - Enamul Hoque
+  publisher: Proceedings of the 12th Language Resources and Evaluation Conference
+  date: '2020-05-01'
+  link: https://www.aclweb.org/anthology/2020.lrec-1.676
+  id: https://www.aclweb.org/anthology/2020.lrec-1.676/
+  tags:
+  - Answer Selection
+  - Transformer Encoder
+  - Contextualized Embeddings
+  - ELMo
+  - BERT
+  - RoBERTa
+  - Deep Learning
+- title: Answering Questions about Charts and Generating Visual Explanations
+  authors:
+  - Dae Hyun Kim
+  - Enamul Hoque
+  - Maneesh Agrawala
+  publisher: Association for Computing Machinery (ACM)
+  date: '2020-04-21'
+  link: https://doi.org/gj9db4
+  id: 10.1145/3313831.3376467
+  image: https://dhkim16.github.io/vis-qa/img/qa-examples.png
+  repo: https://github.com/dhkim16/VisQA-release
+  tags:
+  - Question answering
+  - Visualization
+  - Explainable AI
